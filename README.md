@@ -1,5 +1,19 @@
 # Analiza wybranych tekstów pod kątem treści (rodzaju), walencji i natężenia emocji w odniesieniu do rozpoznanych nazwanych bytów (Named Entities).
 
+       ███╗   ██╗██╗     ██████╗     ██╗   ██╗██╗██████╗ ███████╗
+       ████╗  ██║██║     ██╔══██╗    ██║   ██║██║██╔══██╗██╔════╝
+       ██╔██╗ ██║██║     ██████╔╝    ██║   ██║██║██████╔╝█████╗  
+       ██║╚██╗██║██║     ██╔═══╝     ╚██╗ ██╔╝██║██╔══██╗██╔══╝  
+       ██║ ╚████║███████╗██║          ╚████╔╝ ██║██████╔╝███████╗
+       ╚═╝  ╚═══╝╚══════╝╚═╝           ╚═══╝  ╚═╝╚═════╝ ╚══════╝
+
+             ██████╗██╗  ██╗███████╗ ██████╗██╗  ██╗███████╗██████╗ 
+            ██╔════╝██║  ██║██╔════╝██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+            ██║     ███████║█████╗  ██║     █████╔╝ █████╗  ██████╔╝
+            ██║     ██╔══██║██╔══╝  ██║     ██╔═██╗ ██╔══╝  ██╔══██╗
+            ╚██████╗██║  ██║███████╗╚██████╗██║  ██╗███████╗██║  ██║
+             ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+
 <h2>Dobór danych i ekstrakcja treści</h2>
 
 Podmiotem poddanym analizie (wybranym bytem) jest Władimir Putin. Materiał badawczy został pozyskany z portalu polsatnews.pl. W celu odiltrowania artykułów, w ktorych byt wzmiankowany jest tylko raz zastosowałem technikę Google Dorking przy użyciu operatora `site:polsatnews.pl "Putin" "Putin"`. 
