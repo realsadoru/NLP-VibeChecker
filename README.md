@@ -47,7 +47,7 @@ Poniżej znajdują się zrzuty ekranu wyników dla każdego modelu pochodzące b
 
 <h4>Dominacja narracji obiektywnej</h4>
 
-Kluczowym wnioskiem jest przewaga tonu neutralnego w badanym korpusie. Model Citizenlab zaklasyfikował aż *94,36%* treści jako Neutralne. Potwierdza to, że analizowane dane mają charakter sprawozdawczy (np. relacje z rozmów telefonicznych z premierem Izraela czy prezydentem Iranu).
+Kluczowym wnioskiem jest przewaga tonu neutralnego w badanym korpusie. Model Citizenlab zaklasyfikował aż 94,36% treści jako Neutralne. Potwierdza to, że analizowane dane mają charakter sprawozdawczy (np. relacje z rozmów telefonicznych z premierem Izraela czy prezydentem Iranu).
 
 <h4>Profil emocjonalny i składowe afektywne</h4>
 
