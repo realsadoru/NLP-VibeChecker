@@ -11,7 +11,7 @@ Proces przygotowania danych przebiegał następująco:
 
 <h2>Metodologia i rozwój narzędzia</h2>
 
-Punktem wyjścia dla opracowanego narzędzia był skrypt przygotowany przez prowadzącego (`emo_sents.py`). W trakcie pracy skrypt ten został wielu modyfikacjom, co doprowadziło do powstania finalnej wersji narzędzia (plik `nlpvibechecker.py`).
+Punktem wyjścia dla opracowanego narzędzia był skrypt przygotowany przez prowadzącego (`emo_sents.py`). W trakcie pracy skrypt ten został wielu modyfikacjom, co doprowadziło do powstania finalnej wersji narzędzia (plik `main.py`).
 
 Główne różnice i wprowadzone usprawnienia:
 1. Adaptacja środowiska i debugowanie: W skrypcie bazowym ścieżki do modeli oraz parametry sprzętowe były skonfigurowane pod konkretne środowisko lokalne (ścieżki w systemie Windows, wymuszenie CUDA). W wersji main.py zaimplementowano automatyczne wykrywanie sprzętu, ze szczególnym uwzględnieniem akceleracji Apple Silicon (MPS), co pozwoliło na natywne i wydajne działanie skryptu na systemach macOS.
